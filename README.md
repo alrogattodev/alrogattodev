@@ -27,7 +27,7 @@ Databases: MongoDB, MySQL, Oracle, SQL, Redis
 DevOps: Docker, Kubernetes, CI/CD
 
 💡 What I Bring:
-Backend architecture that’s as maintainable as it is powerful. Whether it’s optimizing APIs, scaling microservices, or integrating complex systems, I’m all about backend precision.
+Backend architecture that’s as maintainable as it is powerful. Whether it’s optimizing APIs, scaling microservices, or integrating complex systems, I’m all about backend or infra jobs.
 
 🚀 Let’s Build
 Looking for a backend developer? Reach out here or drop a line at al@rticons.com.
